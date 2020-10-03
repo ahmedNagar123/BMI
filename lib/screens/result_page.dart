@@ -1,9 +1,8 @@
 import 'package:bmi_calculator/component/bottom_bottom.dart';
 import 'package:bmi_calculator/constants.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'file:///D:/projectFlutter/bmi-calculator-flutter/lib/component/reusable_widget.dart';
+import '../component/reusable_widget.dart';
 
 class ResultPage extends StatelessWidget {
   final String resultText;
